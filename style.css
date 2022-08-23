@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(51, 51, 98);
+}
+.headpage h1{
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+}
+.buttons{
+    text-align: center;
+    padding-top: 90px;
+}
+button{
+    padding: 50px;
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 9px solid red;
+    font-size: 50px;
+    font-weight: bolder;
+}
+footer p{
+    color: aliceblue;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 100px;
+}
+.wbtn{
+  background-image: url(images/tom1.png);
+}
+.abtn{
+    background-image: url(images/tom2.png);
+}
+.sbtn{
+    background-image: url(images/snare.png);
+}
+.dbtn{
+    background-image: url(images/tom3.png);
+  }
+.jbtn{
+      background-image: url(images/tom4.png);
+  }
+.kbtn{
+      background-image: url(images/kick.png);
+  }
+.lbtn{
+    background-image: url(images/crash.png);
+}  
